@@ -23,6 +23,19 @@ Elke _leerling_ kan _items_ toevoegen aan eigen _persoonlijke kalender_
 
 Deze _klas kalender_ wordt beheerdt door een _docent/roostermaker_.
 
+### Docent
+
+Een _docent_ kan:
+
+* zijn eigen _rooster_/_kalender_ zien
+* het _rooster_ van een _leerling_ zien
+* een _taak_ geven aan een _klas_
+* een _taak_ geven aan een _leerling_
+* een _taak_ geven aan een _groep_
+* _studenten_ en _docenten_ toevoegen aan een _groep_
+* een _groep_ verlaten
+
+
 ### Roostermaker
 
 Een _roostermaker_ kan:
@@ -31,3 +44,10 @@ Een _roostermaker_ kan:
 * _klas kalender_ aanmaken
 * _klas kalender_ veranderen
 * _klas kalender_ verwijderen
+
+## Overige
+
+### Groep
+
+* Een _groep_ bestaat uit minsten 2 _studenten_ en/of _docenten_
+* Een groep kan taken krijgen van _studenten_ en _docenten_
