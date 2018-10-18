@@ -1,25 +1,25 @@
 {
   "name": "kalender",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
-  },
+  "version": "0.0.1",
+  "description": "Een gepersonaliseerde kalender.",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node index.js",
+    "test": "mocha --exit"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinci-kalender/kalender.git"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "author": "Damion White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinci-kalender/kalender/issues"
+  },
+  "homepage": "https://github.com/davinci-kalender/kalender#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0"
+  }
 }

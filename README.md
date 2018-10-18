@@ -35,7 +35,6 @@ Een _docent_ kan:
 * _studenten_ en _docenten_ toevoegen aan een _groep_
 * een _groep_ verlaten
 
-
 ### Roostermaker
 
 Een _roostermaker_ kan:
