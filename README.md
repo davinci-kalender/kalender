@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/davinci-kalender/kalender.svg?branch=master)](https://travis-ci.com/davinci-kalender/kalender)
+
 # Da Vinci Kalender
 
 Een kalender voor Da Vinci.
