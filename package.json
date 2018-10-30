@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/davinci-kalender/kalender#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "chai": "^4.2.0",
     "css-loader": "^1.0.1",
     "mocha": "^5.2.0",

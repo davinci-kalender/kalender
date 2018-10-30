@@ -52,3 +52,18 @@ Een _roostermaker_ kan:
 
 * Een _groep_ bestaat uit minsten 2 _studenten_ en/of _docenten_
 * Een groep kan taken krijgen van _studenten_ en _docenten_
+
+### Klassentaak:
+* een klassentaak heeft een _einddatum(mag leeg zijn)_
+* een klassentaak heeft een _uitvoeringsdatum(mag leeg zijn)_
+* een klassentaak heeft een _naam_
+* een klassentaak heeft een _beschrijving_
+* een klassentaak heeft een _id_
+
+### KlassentaakLeerling:
+* verbind een leerling met een Klassentaak door middel van een _id_ van beide 
+* Heeft een _klassentaak id_
+* heeft een _leerling id_ 
+* heeft een uitvoeringsdatum(mag leeg zijn)
+* heeft een _status_ 
+
