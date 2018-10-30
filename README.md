@@ -1,5 +1,7 @@
 # Da Vinci Kalender
 
+[![Build Status](https://travis-ci.com/davinci-kalender/kalender.svg?branch=master)](https://travis-ci.com/davinci-kalender/kalender)
+
 Een kalender voor Da Vinci.
 
 ## Kalender
@@ -34,7 +36,6 @@ Een _docent_ kan:
 * een _taak_ geven aan een _groep_
 * _studenten_ en _docenten_ toevoegen aan een _groep_
 * een _groep_ verlaten
-
 
 ### Roostermaker
 
